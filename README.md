@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rajeshmahat0
 - 👀 I’m wanr to become pyhton full stack developer.
-- 🌱  I have completd pyhton basic and intermmediate and currently also learn my sql and currently i am focusing on learning framework - Django.
+- 🌱  I have completd pyhton basic and intermmediate and currently also i know Mysql and currently i am focusing on learning framework - Django.
 - 📫 for contact rm7136099@gmail.com
 
 
