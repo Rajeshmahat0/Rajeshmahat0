@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rajeshmahat0
-- 👀 I’m want to become pyhton full stack developer.
+- 👀 I’m want to become python  developer.
 - skills -> python(Intermediate)
 -        -> My sql(Intermediate)
 -        -> framework(Django) Beginner
